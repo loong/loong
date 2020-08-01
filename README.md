@@ -1,3 +1,5 @@
+<img align="right" width="200" height="200" src="assets/2020-mood.gif">
+
 # I turn beer into code
 
 Hello friend. This is Long from Überlingen, Germany. I turn beer into code and create self-aware factories at [FireVisor Systems](firevisor.com). 🔥
