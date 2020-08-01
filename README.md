@@ -1,4 +1,4 @@
-<img align="right" width="200" height="200" src="assets/2020-mood.gif">
+<img align="right" width="200" height="200" src="https://github.com/loong/loong/raw/master/assets/2020-mood.gif">
 
 # I turn beer into code
 
