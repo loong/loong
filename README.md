@@ -23,4 +23,6 @@ Hello friend. This is Long from Überlingen, Germany. I turn beer into code and 
 
 </details>
 
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Floong%2Floong" alt="Hits">
+
 <img src="http://api.mixpanel.com/track/?data=eyJldmVudCI6IkdpdEh1YiBwYWdlIG9wZW5lZCIsInByb3BlcnRpZXMiOnsidG9rZW4iOiIwYjliZjBlNWZlM2I0YTE4ZTUwNzdjMzY0M2FiODgxNCIsImx2bCI6MSwiaXAiOjF9fQ==&img=1">
