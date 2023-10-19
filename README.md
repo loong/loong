@@ -14,7 +14,7 @@ This is Long from Überlingen, Germany. I'm now in the Growth team at [Supabase]
 
 * Current: 🇸🇬
 * Past homes: 🇩🇪🇻🇳🇭🇰🇹🇼🇬🇧
-* Countries visited (38):
+* Countries visited (39):
 
 | Region               | Country                       
 |--------------------- | -------                       
